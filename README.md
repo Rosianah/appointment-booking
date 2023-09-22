@@ -19,7 +19,3 @@ To run
 2. Migrations:  "python manage.py makemigrations" and "python manage.py migrate"
 3. Run: python manage.py runserver    
 
-Known issues:
-1. User groups were not created successfully so functionality has not been included in this submission
-2. Blob storage not integrated 
-3. API not yet created.
